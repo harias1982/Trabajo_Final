@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,user-scalable=no">
+    <meta name="keywords" content="html, css, xml, javascript">
+    <meta name= "autor" content="Harold Arias Quesada">
+    <title>Curriculum Vitae de Harold Arias Quesada (Educación)</title>
+  </head>
+  <body>
+    <header>
+      <h1><img src="../img/dibujo.svg" alt="logo" width="75px" height="125px"/> Hoja de vida</h1>
+      <h2>Nombre: Harold Arias Quesada</h2>
+      <h3>Lugar de nacimiento: Pérez Zeledón San José Costa Rica</h3>
+      <h3>Fecha de nacimiento: 05 de enero de 1982</h3>
+      <a href="../index.html">Pagina Principal</a>
+      |
+      <a href="experiencia.html" target="_blank">Ver Experiencia</a>
+    </header>
+
+    <section>
+      <h2>Educación:</h2>
+      <table border="1" >
+        <tr>
+          <th>Año</th>
+          <th>Institución</th>
+          <th>Lugar</th>
+          <th>¿Culminó?</th>
+        </tr>
+        <tr>
+          <td>1995</td>
+          <td>Escuela San Miguel</td>
+          <td>Pérez Zeledón</td>
+          <td>Sí</td>
+        </tr>
+        <tr>
+          <td>2000</td>
+          <td>CTP Pejibaye</td>
+          <td>Pérez Zeledón</td>
+          <td>Sí</td>
+        </tr>
+        <tr>
+          <td>2006</td>
+          <td>Universidad Nacional</td>
+          <td>Pérez Zeledón</td>
+          <td>Sí</td>
+        </tr>
+      </table> <br>
+      <form name="Agregar Estudios" autocomplete="on" action="">
+        <fieldset>
+          <legend><strong>Agregar Estudios</strong></legend>
+            <label for="Año">Año</label>
+            <input type="Date" name="Año" value="date" id="año">
+            <label for="Año">Institución</label>
+            <input type="text" name="institución" value="" required title="Campo requerido" id="institucion"><br>
+            <label for="Lugar">Lugar</label> <br>
+            <textarea name="Lugar" rows="3" cols="25" id="lugar"></textarea>
+            <label for="¿Culmino?">¿Culminó?</label>
+            <b>Si<input type="radio" name="Sí"></b>
+            <b>No<input type="radio" name="No"></b> <br>
+            <input type="submit" name="Enviar" value="Enviar" id="enviar">
+        </fieldset>
+      </form>
+    </section>
+
+    <footer>
+      <ul>
+        <li>Correo electronico:<a href="ariasquesada@gmail.com">ariasquesada@gmail.com</a></li>
+        <li>Teléfono: 8302-2731 </li>
+        <li>Todos los derechos reservados</li>
+      </ul>
+
+    </footer>
+
+  </body>
+</html>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="116.38238mm"
+   height="66.131157mm"
+   viewBox="0 0 116.38238 66.131157"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="dibujo.svg">
+  <defs
+     id="defs2">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 77.062179 : 1"
+       inkscape:vp_y="0 : 999.99996 : 0"
+       inkscape:vp_z="210.00001 : 77.062179 : 1"
+       inkscape:persp3d-origin="105.00001 : 27.562454 : 1"
+       id="perspective10" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.75575672"
+     inkscape:cx="402.68379"
+     inkscape:cy="60.271528"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-center="false">
+    <sodipodi:guide
+       position="-90.454754,70.774773"
+       orientation="0.70710678,0.70710678"
+       id="guide54"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-2.0083263,-4.5543246)">
+    <path
+       sodipodi:type="spiral"
+       style="fill:#ff6600;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332"
+       id="path40"
+       sodipodi:cx="34.773811"
+       sodipodi:cy="40.732143"
+       sodipodi:expansion="1"
+       sodipodi:revolution="3.0097339"
+       sodipodi:radius="41.324371"
+       sodipodi:argument="-18.1031"
+       sodipodi:t0="0"
+       d="m 34.773811,40.732143 c 1.516091,1.402382 -1.142397,2.735546 -2.33085,2.519843 -3.220636,-0.584543 -3.893281,-4.654397 -2.708834,-7.181544 2.118699,-4.520473 8.048602,-5.271414 12.032236,-2.897825 5.846144,3.483337 6.688238,11.488074 3.086817,16.882929 -4.800128,7.190493 -14.943513,8.121418 -21.733622,3.275808 -8.544659,-6.097704 -9.563031,-18.406536 -3.4648,-26.584315 7.385776,-9.904385 21.873827,-11.009524 31.435008,-3.653791 11.26752,8.668477 12.459079,25.343777 3.842783,36.285701 C 44.984694,72.011832 26.117046,73.289627 13.796155,63.410723 -0.20362386,52.185685 -1.5675501,31.122248 9.5753894,17.423637 22.076083,2.0558651 45.337747,0.60586589 60.413169,13.013879 c 16.736575,13.775247 18.272613,39.236925 4.598749,55.688472 -0.538386,0.647752 -1.096671,1.27896 -1.673746,1.892495" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot42"
+       style="font-style:normal;font-weight:normal;font-size:64.99999762%;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;baseline-shift:super;fill:#000000;fill-opacity:1;stroke:none"
+       transform="scale(0.26458333)"><flowRegion
+         id="flowRegion44"
+         style="font-size:64.99999762%;baseline-shift:super"><rect
+           id="rect46"
+           width="248.57143"
+           height="174.28572"
+           x="311.42856"
+           y="73.948257"
+           style="font-size:64.99999762%;baseline-shift:super" /></flowRegion><flowPara
+         id="flowPara48">H</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:23.81249428px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.59531236"
+       x="62.107758"
+       y="39.517548"
+       id="text52"
+       transform="scale(0.73171319,1.3666557)"><tspan
+         sodipodi:role="line"
+         id="tspan50"
+         x="62.107758"
+         y="39.517548"
+         style="fill:#000080;stroke-width:0.59531236">HAROLD</tspan></text>
+  </g>
+</svg>
